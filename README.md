@@ -1,4 +1,4 @@
-# Avaliação de Análise da Conjuntura Econômica em Cenários de Tecnologias Disruptivas I
+# Análise da Conjuntura Econômica em Cenários de Tecnologias Disruptivas I
 
 1- Sobre o horizonte de análise nos tipos de abordagens econômicas, considere as afirmações e escolha a alternativa correta:
 
