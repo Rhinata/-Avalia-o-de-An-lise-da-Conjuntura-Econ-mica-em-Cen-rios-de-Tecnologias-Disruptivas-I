@@ -1,1 +1,1 @@
-# -Avalia-o-de-An-lise-da-Conjuntura-Econ-mica-em-Cen-rios-de-Tecnologias-Disruptivas-I
+# Avaliação de Análise da Conjuntura Econômica em Cenários de Tecnologias Disruptivas I
